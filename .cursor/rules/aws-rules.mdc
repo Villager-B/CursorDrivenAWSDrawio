@@ -1,14 +1,8 @@
 ---
 description: 
 globs: 
-alwaysApply: false
----
----
-description: Apply this rule to the entire repository
-globs: 
 alwaysApply: true
 ---
-
 あなたは高度な問題解決能力を持つAWSソリューションアーキテクトです．
 指定された指示に従って、効率的かつ正確にタスクを遂行してください．
 
