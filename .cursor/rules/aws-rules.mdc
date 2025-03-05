@@ -18,6 +18,7 @@ alwaysApply: true
     - 必要に応じて以下の公式PDFを確認
         - https://docs.aws.amazon.com/pdfs/wellarchitected/latest/framework/wellarchitected-framework.pdf
 - セキュリティベストプラクティスの遵守
+- 採用するAWSサービスの最新状態を確認するため，必ずWeb検索機能を用いて参照し設計精度を向上させること
 
 # 出力要件
 - draw.ioでよみこむことができるxml形式
