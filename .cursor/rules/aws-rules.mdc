@@ -41,7 +41,7 @@ alwaysApply: true
      
      | サービスカテゴリ | 色コード | 色の説明 | 代表的なサービス |
      |-----------------|---------|---------|----------------|
-     | アプリケーション統合 | #E7157B | ピンク色 | API Gateway, EventBridge, SQS, SNS, Step Functions |
+     | アプリケーション統合 | #E7157B | ピンク色 | API Gateway, EventBridge, SQS, SNS, Step Functions,MWAA |
      | コンピューティング | #ED7100 | オレンジ色 | EC2, Lambda, ECS, EKS, Fargate |
      | データベース | #C925D1 | 紫色 | RDS, DynamoDB, ElastiCache, Neptune |
      | ストレージ | #7AA116 | 緑色 | S3, EBS, EFS, S3 Glacier |
@@ -62,6 +62,7 @@ alwaysApply: true
 
    - CloudWatch, CloudWatch Logsを使用する場合，サービス名は「cloudwatch_2」を入力してください．
    - VPCを使用する場合，サービス名は「group_vpc2」を入力してください．色は#8C4FFFです．
+   - MWAAを使用する場合，サービス名は「managed_workflows_for_apache_airflow」を入力してください．
 
 3. **アイコンのサイズと配置**
    - アイコンは78x78ピクセルのサイズを標準とすること
